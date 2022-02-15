@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TaxiProject</string>
+    <string-array name="Languages">
+        <item>Не выбрано</item>
+        <item>Киев</item>
+        <item>Львов</item>
+        <item>Запорожье</item>
+        <item>Ужгород</item>
+        <item>Черновцы</item>
+        <item>Чернигов</item>
+        <item>Одесса</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registr"><u>Зарегистрироватся</u></string>
+</resources>

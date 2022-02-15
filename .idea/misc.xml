@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/aboba.xml" value="0.15" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.14" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/def_avatar_1.xml" value="0.18009259259259258" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/defavatar1.xml" value="0.18009259259259258" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/dimen.xml" value="0.1505" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/edittextinset.xml" value="0.18009259259259258" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/gradient_spinner.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/ic__04947.xml" value="0.18009259259259258" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/ic__213460_account_avatar_head_person_profile_user_115386.xml" value="0.18009259259259258" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/ic_baseline_arrow_right_alt_24.xml" value="0.1505" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.15" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/ic_panel.xml" value="0.18009259259259258" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/ic_plus.xml" value="0.18009259259259258" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/ic_profile.xml" value="0.18009259259259258" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/ic_search.xml" value="0.15" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/inset.xml" value="0.1875" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/spinner_background.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/style.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/drawable/textbackground.xml" value="0.152" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/dialog_searchable_spinner.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_add.xml" value="0.21" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_add_car.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_bottom.xml" value="0.25" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_city.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_entrance.xml" value="0.22" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_logo.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_maps.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_numbers.xml" value="0.22" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_panel.xml" value="0.1634703196347032" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_redistr2.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_registr.xml" value="0.22" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/layout/fragment_registr2.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/Smart/Desktop/GitHub/TaxiProject/app/src/main/res/menu/menu_bottom.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

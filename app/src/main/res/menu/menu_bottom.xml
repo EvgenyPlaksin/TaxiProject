@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_search"
+        android:title="Карта"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/ic__04947"
+        android:title="Добавить"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/Profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Профиль"
+        android:enabled="true"/>
+
+</menu>
